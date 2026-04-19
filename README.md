@@ -162,6 +162,8 @@ Key observations:
 - Genome size nearly identical to reference
 - Chromosome structure successfully reconstructed
 - High structural accuracy confirmed via Hi-C maps
+<img width="1000" height="500" alt="hi-c_pretext_conclusion" src="https://github.com/user-attachments/assets/206f82cd-f02e-4902-934a-3ea0b83cddb0" />
+
 
 ---
 
